@@ -6,11 +6,8 @@
 <NavBar />
 
 <div class="flex flex-col items-center gap-5 py-5 max-w-4xl mx-4 sm:mx-6 md:mx-auto min-h-screen">
-  <div class="bg-gradient-to-r from-cyan-500 to-blue-500 p-4 m-4 rounded-xl flex items-center justify-between">
-    <div class="text-2xl text-white">I'm Muhamad Huda</div>
-  </div>
-  
-  <div class="text-base font-normal leading-[1.75] tracking-wide text-white">
+    <div class="text-base font-normal leading-[1.75] tracking-wide text-white">
+    <div class="text-2xl font-bold text-white py-1">I'm Muhamad Huda</div>
     A <span class="font-bold"> Software Enginnering</span> with a main focus on building Mobile Apllicatiom, interactive, maintainable. 
     <br><br>
     From a young age, I've harbored a strong interest in the world of computers. My passion for technology has been evident since childhood, and I've found immense joy in exploring and understanding various programming concepts.
